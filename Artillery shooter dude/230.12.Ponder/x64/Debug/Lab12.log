@@ -1,0 +1,492 @@
+﻿  ground.cpp
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(33,54): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(33,29): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(33,56): error C3078: array size must be specified in new expressions without an initializer
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(44,7): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(44,8): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(45,55): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(45,40): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(58,4): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(58,4): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(136,80): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(136,55): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(140,52): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(140,27): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(145,46): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(145,21): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(161,80): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(161,55): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(170,80): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(170,55): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(181,80): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\ground.cpp(181,55): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+  test.cpp
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(62,1): error C2248: 'Position::metersFromPixels': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(88): message : see declaration of 'Position::metersFromPixels'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(63,1): error C2248: 'Position::metersFromPixels': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(88): message : see declaration of 'Position::metersFromPixels'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(64,20): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(65,20): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(71,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(72,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(73,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(74,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(76,1): error C2248: 'Position::metersFromPixels': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(88): message : see declaration of 'Position::metersFromPixels'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(96,10): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(97,10): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(117,10): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(118,10): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(143,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(144,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(166,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(167,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(217,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(218,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(221,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(222,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(223,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(224,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(225,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(226,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(227,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(228,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(229,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(230,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(231,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(232,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(233,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(234,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(235,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(236,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(237,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(238,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(239,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(240,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(241,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(242,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(243,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(244,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(245,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(246,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(247,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(248,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(249,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(250,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(251,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(252,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(253,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(254,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(255,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(256,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(257,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(258,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(259,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(260,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(283,18): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(284,18): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(290,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(291,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(322,1): error C2248: 'Position::metersFromPixels': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(88): message : see declaration of 'Position::metersFromPixels'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(323,1): error C2248: 'Position::metersFromPixels': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(88): message : see declaration of 'Position::metersFromPixels'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(333,22): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(334,22): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(344,7): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(345,7): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(346,1): error C2248: 'Position::metersFromPixels': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(88): message : see declaration of 'Position::metersFromPixels'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testGround.h(367,1): error C2248: 'Position::metersFromPixels': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(88): message : see declaration of 'Position::metersFromPixels'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testProjectile.h(108,32): error C7624: Type name 'Projectile::PositionVelocityTime' cannot appear on the right side of a class member access expression
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\projectile.h(55,11): message : see declaration of 'Projectile::PositionVelocityTime'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testProjectile.h(248,14): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testProjectile.h(249,14): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testProjectile.h(250,12): error C2248: 'Velocity::dx': cannot access private member declared in class 'Velocity'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\velocity.h(52): message : see declaration of 'Velocity::dx'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\velocity.h(20): message : see declaration of 'Velocity'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testProjectile.h(251,12): error C2248: 'Velocity::dy': cannot access private member declared in class 'Velocity'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\velocity.h(53): message : see declaration of 'Velocity::dy'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\velocity.h(20): message : see declaration of 'Velocity'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testProjectile.h(263,10): error C2248: 'Position::x': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(86): message : see declaration of 'Position::x'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testProjectile.h(264,10): error C2248: 'Position::y': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(87): message : see declaration of 'Position::y'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testProjectile.h(265,10): error C2248: 'Velocity::dx': cannot access private member declared in class 'Velocity'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\velocity.h(52): message : see declaration of 'Velocity::dx'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\velocity.h(20): message : see declaration of 'Velocity'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testProjectile.h(266,10): error C2248: 'Velocity::dy': cannot access private member declared in class 'Velocity'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\velocity.h(53): message : see declaration of 'Velocity::dy'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\velocity.h(20): message : see declaration of 'Velocity'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testProjectile.h(283,1): error C2248: 'Position::metersFromPixels': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(88): message : see declaration of 'Position::metersFromPixels'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testProjectile.h(284,1): error C2248: 'Position::metersFromPixels': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(88): message : see declaration of 'Position::metersFromPixels'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\testProjectile.h(292,1): error C2248: 'Position::metersFromPixels': cannot access private member declared in class 'Position'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(88): message : see declaration of 'Position::metersFromPixels'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(21): message : see declaration of 'Position'
+  uiDraw.cpp
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(55,7): error C3646: 'pt1': unknown override specifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(55,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(56,7): error C3646: 'pt2': unknown override specifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(56,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(57,7): error C3646: 'pt3': unknown override specifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(57,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(58,7): error C3646: 'pt4': unknown override specifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(58,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(80,39): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(80,24): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(80,66): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(80,51): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(80,67): error C2660: 'glVertex2f': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1469,25): message : see declaration of 'glVertex2f'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(126,46): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(126,27): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(126,77): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(126,58): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(126,78): error C2660: 'glRasterPos2f': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1371,25): message : see declaration of 'glRasterPos2f'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(147,39): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(147,24): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(148,39): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(148,24): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(149,37): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(149,22): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(150,37): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(150,22): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(189,29): error C2039: 'pt1': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(189,50): error C2039: 'pt1': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(189,55): error C2660: 'glVertex2f': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1469,25): message : see declaration of 'glVertex2f'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(190,29): error C2039: 'pt2': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(190,50): error C2039: 'pt2': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(190,55): error C2660: 'glVertex2f': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1469,25): message : see declaration of 'glVertex2f'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(191,29): error C2039: 'pt3': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(191,50): error C2039: 'pt3': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(191,55): error C2660: 'glVertex2f': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1469,25): message : see declaration of 'glVertex2f'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(192,29): error C2039: 'pt4': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(192,50): error C2039: 'pt4': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(192,55): error C2660: 'glVertex2f': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1469,25): message : see declaration of 'glVertex2f'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(213,49): error C2039: 'pt1': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(213,61): error C2039: 'pt1': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(213,73): error C2660: 'rotatePosition': function does not take 2 arguments
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(46,10): message : see declaration of 'rotatePosition'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(214,49): error C2039: 'pt2': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(214,61): error C2039: 'pt2': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(214,73): error C2660: 'rotatePosition': function does not take 2 arguments
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(46,10): message : see declaration of 'rotatePosition'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(215,49): error C2039: 'pt3': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(215,61): error C2039: 'pt3': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(215,73): error C2660: 'rotatePosition': function does not take 2 arguments
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(46,10): message : see declaration of 'rotatePosition'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(216,49): error C2039: 'pt4': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(216,61): error C2039: 'pt4': is not a member of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(53): message : see declaration of 'Quad'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(216,73): error C2660: 'rotatePosition': function does not take 2 arguments
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(46,10): message : see declaration of 'rotatePosition'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(235,34): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(235,17): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(235,63): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(235,46): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(236,34): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(236,17): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(236,61): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(236,46): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(237,32): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(237,17): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(237,61): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(237,46): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(238,32): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(238,17): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(238,63): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(238,46): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(238,7): error C2078: too many initializers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(260,40): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(260,25): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(260,80): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(260,65): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(260,93): error C2660: 'glVertex2f': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1469,25): message : see declaration of 'glVertex2f'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(261,40): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(261,25): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(261,80): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(261,65): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(261,93): error C2660: 'glVertex2f': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1469,25): message : see declaration of 'glVertex2f'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(262,40): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(262,25): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(262,80): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(262,65): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(262,93): error C2660: 'glVertex2f': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1469,25): message : see declaration of 'glVertex2f'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(263,40): error C2662: 'double Position::getPixelsX(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(263,25): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(54,11): message : see declaration of 'Position::getPixelsX'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(263,80): error C2662: 'double Position::getPixelsY(void)': cannot convert 'this' pointer from 'const Position' to 'Position &'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(263,65): message : Conversion loses qualifiers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\position.h(55,11): message : see declaration of 'Position::getPixelsY'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(263,93): error C2660: 'glVertex2f': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1469,25): message : see declaration of 'glVertex2f'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(282,9): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(282,9): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(282,22): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(282,22): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(282,34): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(282,34): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(282,46): error C2078: too many initializers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(284,9): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(284,9): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(284,22): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(284,22): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(284,34): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(284,34): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(286,9): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(286,9): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(286,22): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(286,22): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(286,34): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(286,34): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(292,8): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(292,8): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(292,22): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(292,22): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(292,34): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(292,34): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(292,46): error C2078: too many initializers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(294,8): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(294,8): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(294,21): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(294,21): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(294,34): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(294,34): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(296,8): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(296,8): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(296,20): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(296,20): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(296,32): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(296,32): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(301,8): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(301,8): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(301,22): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(301,22): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(301,35): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(301,35): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(301,48): error C2078: too many initializers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(303,8): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(303,8): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(303,20): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(303,20): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(303,32): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(303,32): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(305,8): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(305,8): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(305,21): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(305,21): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(305,34): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(305,34): message : The initializer contains too many elements
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(308,4): error C2065: 'PT': undeclared identifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(308,7): error C2146: syntax error: missing ';' before identifier 'pointsMuzzleFlash'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(308,7): error C2065: 'pointsMuzzleFlash': undeclared identifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(343,44): error C2065: 'pointsMuzzleFlash': undeclared identifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(344,44): error C2065: 'pointsMuzzleFlash': undeclared identifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(343,24): error C2660: 'rotatePosition': function does not take 2 arguments
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(46,10): message : see declaration of 'rotatePosition'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(345,44): error C2065: 'pointsMuzzleFlash': undeclared identifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(346,44): error C2065: 'pointsMuzzleFlash': undeclared identifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(345,24): error C2660: 'rotatePosition': function does not take 2 arguments
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\230.12.Ponder\uiDraw.cpp(46,10): message : see declaration of 'rotatePosition'
+  Generating Code...

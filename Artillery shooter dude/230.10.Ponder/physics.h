@@ -64,7 +64,7 @@ inline double accelerationFromForce(double force, double mass)
  ************************************************************/
 inline double velocityFromAcceleration(double acceleration, double time)
 {
-   return acceleration;
+   return acceleration * time;
 }
 
 /*********************************************************
